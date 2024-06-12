@@ -149,3 +149,5 @@ Upon clicking Next choose the type of authenticator app you want to use here weâ
 To check to see if MFA is in effect, log off and log back onto the user and enter the MFA code upon relogin. After it is entered, it will complete the login:
 
 ![MFA Complete](https://i.imgur.com/kEQIdSQ.png)
+
+All done! Now you're an expert in AWS IAM!
