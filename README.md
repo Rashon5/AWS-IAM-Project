@@ -9,6 +9,7 @@ There were 100 users that needed to be migrated and have MFA (Multi-factor authe
 To avoid repetitive and manual tasks in the AWS console, I automated the processes using VSCode with the AWS CLI and Shell scripts to create users, user groups, and policies with the press of a button.
 
 Click the video below for a visual demonstration!
+
 [![YouTube](http://i.ytimg.com/vi/6mIKlFWwQ5k/hqdefault.jpg)](https://www.youtube.com/watch?v=6mIKlFWwQ5k)
 
 ## Part 1: Creating User Groups
