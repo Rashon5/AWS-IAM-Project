@@ -1,6 +1,8 @@
 
 # Automated User Migration and Management of AWS Identity and Access Management (IAM) Resources
 
+![https://i.imgur.com/eWuuBNb.png](https://i.imgur.com/eWuuBNb.png)![https://i.imgur.com/nK9gvlr.png](https://i.imgur.com/nK9gvlr.png)
+
 ## Project Description
 In this project based on a real-world scenario, I acted as a Cloud Specialist with the mission to migrate users using automation while managing AWS IAM resources.
 
